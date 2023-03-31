@@ -1,6 +1,5 @@
 Klik link Colab berikut untuk menggunakan:
 <br />
-__________________________________
 <br />
 Default menggunakan Gdrive
 <br />
