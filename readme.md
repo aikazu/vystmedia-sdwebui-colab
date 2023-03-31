@@ -17,8 +17,6 @@ Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 <br />
 Colab initial Code: https://github.com/camenduru/stable-diffusion-webui-colab
 <br />
-Extensions:
-<br />
 Image Browser: https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
 <br />
 CivitAI Browser: https://github.com/camenduru/sd-civitai-browser
