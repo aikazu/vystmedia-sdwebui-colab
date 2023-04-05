@@ -1,3 +1,7 @@
+Tutorial bisa di tonton disini
+<br />
+https://www.youtube.com/watch?v=xwS-wz5YnzM
+<br />
 Klik link Open in Colab berikut untuk menggunakan:
 <br />
 <br />
