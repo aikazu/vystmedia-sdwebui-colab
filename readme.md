@@ -2,7 +2,7 @@ Klik link Open in Colab berikut untuk menggunakan:
 <br />
 <br />
 <br />
-<a href="https://colab.research.google.com/github/aikazu/vystmedia-sdwebui-collab/blob/main/Stable_Diffusion_VystMedia.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/aikazu/vystmedia-sdwebui-collab/blob/main/Stable_Diffusion_Vystmedia.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br />
 <br />
 Jangan lupa untuk menggunakan runtime GPU di colab nanti.
