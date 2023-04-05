@@ -1,4 +1,4 @@
-Tutorial bisa di tonton disini
+Tutorial bisa di tonton disini:
 <br />
 [![Img alt text](https://drive.google.com/uc?id=1eWl8hogl4Vd9oS5PHdAMl4LpynB66GiG)](https://www.youtube.com/watch?v=xwS-wz5YnzM)
 <br />
