@@ -4,6 +4,13 @@ Klik link Open in Colab berikut untuk menggunakan:
 <br />
 <a href="https://colab.research.google.com/github/aikazu/vystmedia-sdwebui-collab/blob/main/Stable_Diffusion_VystMedia.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br />
+<br />
+Jangan lupa untuk menggunakan runtime GPU di colab nanti.
+<br />
+<img src="https://drive.google.com/uc?id=1NRMmPmL-yHZQ9L2Yk-mjN0kFjAk7ez8I" alt="Google Drive Image" />
+<br />
+<br />
+<img src="https://drive.google.com/uc?id=1jSbqasBsftzv5wgWeX3Ray5siujYuvMY" alt="Google Drive Image" />
 ___________________________________________________________________________________
 <br />
 Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
