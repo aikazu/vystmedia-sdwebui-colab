@@ -13,6 +13,8 @@ Jangan lupa untuk menggunakan runtime GPU di colab nanti.
 <img src="https://drive.google.com/uc?id=1jSbqasBsftzv5wgWeX3Ray5siujYuvMY" alt="Google Drive Image" />
 ___________________________________________________________________________________
 <br />
+My GDrive data: https://drive.google.com/drive/folders/16E1Hcznv6aJiTxLkZV3fbwfIIUfJV5BR?usp=share_link
+<br />
 Stable Diffusion WebUI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
 <br />
 Colab initial Code: https://github.com/camenduru/stable-diffusion-webui-colab
