@@ -9,7 +9,7 @@ Klik link Open in Colab berikut untuk menggunakan:
 <a href="https://colab.research.google.com/github/aikazu/vystmedia-sdwebui-collab/blob/main/Stable_Diffusion_Vystmedia.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br />
 <br />
-Jangan lupa untuk menggunakan runtime GPU di colab nanti ( Terkadang Runtime GPU gabisa di nyalain karna penuh, harap sabar kalo free emang tapi sering nya bisa kok).
+Jangan lupa untuk menggunakan runtime GPU di colab nanti ( <b>Terkadang Runtime GPU gabisa di nyalain karna penuh, harap sabar kalo free emang tapi sering nya bisa kok<b/> ).
 <br />
 <img src="https://drive.google.com/uc?id=1NRMmPmL-yHZQ9L2Yk-mjN0kFjAk7ez8I" alt="Google Drive Image" />
 <br />
