@@ -42,4 +42,4 @@ WebUI Tunnel: https://github.com/camenduru/sd-webui-tunnels
 <br />
 Batchlink Downloader: https://github.com/etherealxx/batchlinks-webui
 <br />
-Dreambooth: https://github.com/d8ahazard/sd_dreambooth_extension
+Dreambooth: https://github.com/d8ahazard/sd_dreambooth_extension (Optional Advanced User)
